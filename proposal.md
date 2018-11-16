@@ -43,11 +43,12 @@ We will use **Python Jupyter Notebook** to generate our report and visualize the
 The data set we got from the Kaggle is massive, and it cannot directly imported by python. We may need to do some data cleaning before working on it.
 
 ### New Technical Skills
-- We may need to investigate other supervised learning which fit more our problem domain.
+- We may need to investigate other supervised learning which fits our problem domain more.
 - We need other techniques to clean our data sets.
+- We anticipate having to learn more skills, though currently it is hard to say what those will be. Our best guess is that it will focus on learning more skills relevant to machine learning with python packages and creating good in-depth visualizations to display our results.
 
-### Conduct Analysys
-Please include a detailed description of your intended modeling approach.
+### Conduct Analysis
+Currently, our modeling approach consists of applying the machine learning skills we learned in class in notebook 6. We might also do some logistic modeling and maybe some linear modeling, to have a second angle at which variables are most important to the success (or failure) of a kickstarter. Once we do these initial steps, we will see what are results are at that point and see if/what we want to do beyond the modeling we learned in class.
 
 ### Major challenges
 What major challenges do you anticipate?

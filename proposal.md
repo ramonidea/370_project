@@ -26,17 +26,15 @@ With this amount of features, we are able to measure success in many ways and se
 
 
 ### Statistical and Machine Learning Methods
-- We can use classification models to see the attributes that successful projects share.
-- May use KNN and other supervised learning model to predict the successful rate for a new project
+We can use classification models to see the attributes that successful projects share. May use KNN and other supervised learning model to predict the successful rate for a new project
 
 ### Target Audience
-- People looking to crowdsource money for cool projects
-- Anyone with a cool idea looking to make money on it
-- The funders who want want to get the reward
+There are a couple audiences for this resource. For example, people looking to crowdsource money for their cool project ideas, the funders of the project that want to get their reward from donating to a successful campaign. While each of these audiences would reap the benefits of knowing what makes a better campaign, we will primarily focus on those looking to fund their project ideas. 
+
 
 ### Target Audience Questions
-- How to build a specific kickstarter campaign that raises the most amount of money from random people
-- ....
+From this resource, those looking to make successful Kickstarter campaigns will understand what characteristics or combination of characteristics works the best for Kickstarter campaigns. The data analysis that we will perform will help them build the most successful campaign for their product or idea. Knowing this information will help designers and innovators reach more people and garner a large support base, as well as help them fund a project. 
+
 
 
 ## Technical Description

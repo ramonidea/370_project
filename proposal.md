@@ -27,36 +27,34 @@ Both datasets contains 703k projects from Kickstarter and 600k Indiegogo project
 
 ### Statistical and Machine Learning Methods
 - Because we have previous project data from both crowdfunding platforms, we are able to use supervised learning model to predict the successful rate for a new project.
-- Because of the dataset is large enough, according to the [blog](https://www.datasciencecentral.com/profiles/blogs/which-machine-learning-algorithm-should-i-use), 
-- We can use classification models to see the attributes that successful projects share.
+- Because of the dataset is large enough, according to the [blog](https://www.datasciencecentral.com/profiles/blogs/which-machine-learning-algorithm-should-i-use),
+- We can use classification models to see the attributes that successful projects share. May use KNN and other supervised learning model to predict the successful rate for a new project
 
 ### Target Audience
-- People looking to crowdsource money for cool projects
-- Anyone with a cool idea looking to make money on it
-- The funders who want want to get the reward
+There are a couple audiences for this resource. For example, people looking to crowdsource money for their cool project ideas, the funders of the project that want to get their reward from donating to a successful campaign. While each of these audiences would reap the benefits of knowing what makes a better campaign, we will primarily focus on those looking to fund their project ideas.
 
 ### Target Audience Questions
-- How to build a specific kickstarter campaign that raises the most amount of money from random people
-- ....
+From this resource, those looking to make successful Kickstarter campaigns will understand what characteristics or combination of characteristics works the best for Kickstarter campaigns. The data analysis that we will perform will help them build the most successful campaign for their product or idea. Knowing this information will help designers and innovators reach more people and garner a large support base, as well as help them fund a project.
 
 
 ## Technical Description
 
 ### Format
-We will use **Python Jupyter Notebook** to generate our report and visualize the graphs.
+ We will use **Python Jupyter Notebook** to generate our report and visualize the graphs.
 
 ### Data Management Challenges
-The data set we got from the Kaggle is massive, and it cannot directly imported by python. We may need to do some data cleaning before working on it.
+ The data set we got from the Kaggle is massive, and it cannot directly imported by python. We may need to do some data cleaning before working on it.
 
 ### New Technical Skills
-- We may need to investigate other supervised learning which fit more our problem domain.
-- We need other techniques to clean our data sets.
+ - We may need to investigate other supervised learning which fits our problem domain more.
+ - We need other techniques to clean our data sets.
+ - We anticipate having to learn more skills, though currently it is hard to say what those will be. Our best guess is that it will focus on learning more skills relevant to machine learning with python packages and creating good in-depth visualizations to display our results.
 
-### Conduct Analysys
-Please include a detailed description of your intended modeling approach.
+### Conduct Analysis
+ Currently, our modeling approach consists of applying the machine learning skills we learned in class in notebook 6. We might also do some logistic modeling and maybe some linear modeling, to have a second angle at which variables are most important to the success (or failure) of a kickstarter. Once we do these initial steps, we will see what are results are at that point and see if/what we want to do beyond the modeling we learned in class.
 
 ### Major challenges
-What major challenges do you anticipate?
+ What major challenges do you anticipate?
 
 
 ## Public Github Repository

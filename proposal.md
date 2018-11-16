@@ -19,6 +19,7 @@ What kind of research paper in this domain. **Cite three paper here**
 
 ### Dataset(s)
 [Kaggle Kickstarter-projects dataset](https://www.kaggle.com/kemical/kickstarter-projects)
+
 This data is scraped from the Kickstarter website, which includes data on many different Kickstarter campaigns. Data collected on each campaign includes the name, category, main category, currency, deadline, goal, date launched, amount pledged by the crowd, number of backers, country, and amount of US dollars pledged. 
 
 With this amount of features, we are able to measure success in many ways and see what characteristics might make a campaign more successful. Some key features worth evaluating might be the total time the campaign ran, the original goal amount, and the different categories of products on these campaigns. 

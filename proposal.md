@@ -51,7 +51,7 @@ From this resource, those looking to make successful Kickstarter campaigns will 
  - We anticipate having to learn more skills, though currently it is hard to say what those will be. Our best guess is that it will focus on learning more skills relevant to machine learning with python packages and creating good in-depth visualizations to display our results.
 
 ### Conduct Analysis
- Currently, our modeling approach consists of applying the machine learning skills we learned in class in notebook 6. We might also do some logistic modeling and maybe some linear modeling, to have a second angle at which variables are most important to the success (or failure) of a kickstarter. Once we do these initial steps, we will see what are results are at that point and see if/what we want to do beyond the modeling we learned in class.
+ Currently, our modeling approach consists of applying the machine learning skills we learned in class in notebook 6. Specifically we will use the sklearn package. We will create both a decision tree model and K-nearest neighbors model. We might also do some logistic modeling and maybe some linear modeling, to have a second angle at which variables are most important to the success (or failure) of a kickstarter. Once we do these initial steps, we will see what are results are at that point and see if/what we want to do beyond the modeling we learned in class.
 
 ### Major challenges
  What major challenges do you anticipate?

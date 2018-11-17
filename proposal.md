@@ -26,9 +26,8 @@ Both of the data sets are scraped data from the websites, which is done by [Webr
 Both datasets contains 703k projects from Kickstarter and 600k Indiegogo projects.
 
 ### Statistical and Machine Learning Methods
-- Because we have previous project data from both crowdfunding platforms, we are able to use supervised learning model to predict the successful rate for a new project.
-- Because of the dataset is large enough, according to the [blog](https://www.datasciencecentral.com/profiles/blogs/which-machine-learning-algorithm-should-i-use),
-- We can use classification models to see the attributes that successful projects share. May use KNN and other supervised learning model to predict the successful rate for a new project
+- Because we have previous project data from both crowdfunding platforms, we are able to use supervised learning model to predict the successful rate for a new project. For example, Random Forest Model, K Nearest Neighborhood, Cluster models,
+- Because of the dataset is large enough, according to the [blog](https://www.datasciencecentral.com/profiles/blogs/which-machine-learning-algorithm-should-i-use), we can use classification models to see the attributes that successful projects share.
 
 ### Target Audience
 There are a couple audiences for this resource. For example, people looking to crowdsource money for their cool project ideas, the funders of the project that want to get their reward from donating to a successful campaign. While each of these audiences would reap the benefits of knowing what makes a better campaign, we will primarily focus on those looking to fund their project ideas.
@@ -43,7 +42,9 @@ From this resource, those looking to make successful Kickstarter campaigns will 
  We will use **Python Jupyter Notebook** to generate our report and visualize the graphs.
 
 ### Data Management Challenges
- The data set we got from the Kaggle is massive, and it cannot directly imported by python. We may need to do some data cleaning before working on it.
+ - The data set we got from the Kaggle is massive, and it cannot directly imported by python. We may need to do some data cleaning before working on it.
+ - The important features for different projects in different categories are different, which we may have to do analysis on different categories of projects to make the model better.
+ - In some of the columns, they have categorical data, which we need to convert to numerical for future prediction.
 
 ### New Technical Skills
  - We may need to investigate other supervised learning which fits our problem domain more.

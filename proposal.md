@@ -28,8 +28,10 @@ Based on these three articles it can help us figure out how our research will fi
 
 ### Dataset(s)
 We are looking at multiple crowdfunding site's project datasets, which contains their successful rate and other information.  
-- [Kaggle Kickstarter-projects dataset](https://webrobots.io/kickstarter-datasets/)
+- [Kickstarter Projects dataset](https://webrobots.io/kickstarter-datasets/)
 - [Indiegogo Data Set](https://webrobots.io/indiegogo-dataset/)
+- [Kaggle Kickstarter Projects Dataset](https://www.kaggle.com/kemical/kickstarter-projects)
+- [Indiegogo Kaggle proect Dataset](https://www.kaggle.com/kingburrito666/indiegogo-project-statistics)
 
 Both of the datasets are scraped data from the websites, which is done by [Webrobots](https://webrobots.io/)
 
